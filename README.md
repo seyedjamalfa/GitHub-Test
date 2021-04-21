@@ -1,2 +1,2 @@
 # GitHub-Test
-This is a first gitjub project just for test
+This is a first github project just for test
